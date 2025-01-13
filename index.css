@@ -1,0 +1,39 @@
+.main {
+  width: 600px;
+  margin: 0 auto;
+  background-color: rgb(243, 243, 243);
+  border: 1px solid black;
+  padding-bottom: 50px;
+}
+h1 {
+  text-align: center;
+}
+.todoBox {
+  width: 400px;
+  border: 1px solid black;
+  margin: 0 auto;
+  padding: 10px 50px;
+  background-color: white;
+}
+li span:last-child {
+  float: right;
+}
+li span {
+  margin-left: 10px;
+}
+li {
+  list-style-type: none;
+  font-size: 18px;
+  border-bottom: 1px solid gray;
+  padding: 5px 0px;
+}
+ul {
+  padding: 0;
+}
+.listAdd {
+  padding: 20px 20px;
+}
+.listAdd input {
+  width: 300px;
+  height: 20px;
+}
