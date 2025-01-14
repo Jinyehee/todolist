@@ -37,3 +37,8 @@ ul {
   width: 300px;
   height: 20px;
 }
+
+.complete {
+  text-decoration: line-through;
+  color: gray;
+}
